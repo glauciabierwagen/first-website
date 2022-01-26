@@ -63,4 +63,9 @@ h5 {
     box-shadow: 08px 08px 16px rgb(14, 13, 14);     
     ;
 }
-
+li {  
+    color:rgb(207, 124, 40); 
+    font-family: verdana; 
+    font-size: 20px; 
+    font-weight: bold
+    }
