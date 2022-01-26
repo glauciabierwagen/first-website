@@ -1,0 +1,66 @@
+h1 {
+    color: rgb(206, 61, 61); 
+    font-size: 40px;
+    font-family: verdana;
+    text-align: center;
+    }
+h4 {
+    color: black; 
+    font-size: 25px;
+    font-family: verdana;
+    text-align: center;
+    }
+p {
+    color:rgb(63, 61, 61);
+    font-size:24px;
+    font-family:verdana; 
+    }
+   
+
+.section1 {
+    height: 900px;
+    text-align: center;
+    }
+
+.header {
+    background-color:rgb(250, 219, 162); height:230px;
+   }
+
+.section2 {
+    text-align: center;
+    background-color: rgb(209, 235, 235);
+    height:390px;
+    }
+
+.table {
+    width: 1200px;
+    height:150px; 
+    border:0; 
+    spacing:40 
+    padding:2
+    margin-bottom : .5em;
+    table-layout: fixed
+    text-align: center;  
+    }
+
+tr, td {
+    text-align: center;
+    }
+
+h5 {
+    color:black; 
+    font-family: verdana; 
+    text-align: center; 
+    font-size: 16px;
+    }   
+    
+  img {
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(106, 173, 204);
+    border: 3px solid rgb(192, 106, 106);
+    border-top: 3px solid rgb(144, 204, 144);
+    box-shadow: 08px 08px 16px rgb(14, 13, 14);     
+    ;
+}
+
