@@ -1,7 +1,7 @@
 # First-website
 <b> Course IT Women - Front End </b> 
 
-![image](https://user-images.githubusercontent.com/98116061/170280888-2fd6a08e-1ad3-4d82-ad51-6e761095980c.png)
+![image](![image](https://user-images.githubusercontent.com/98116061/183284230-320971fa-b082-463b-b9ce-b3ba516969a4.png)
 
 ## Guidelines
 - Creating a CV, a diary or list of favorite things using tags from HTML. 
